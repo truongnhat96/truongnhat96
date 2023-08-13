@@ -1,5 +1,4 @@
 ![300085408_738582310814464_1766855652849470027_n](https://github.com/truongnhat96/truongnhat96/assets/132559185/ee995eb3-784d-4bf7-8d7a-39fc93abe4ba)
-
  <h1 align="left"> Hi there 👋 </h1>
 
 - 🔭 I’m LUONG NHAT TRUONG
