@@ -1,4 +1,4 @@
-![300085408_738582310814464_1766855652849470027_n](https://github.com/truongnhat96/truongnhat96/assets/132559185/ee995eb3-784d-4bf7-8d7a-39fc93abe4ba)
+![df3kllr-32b45386-cb0b-4d18-8614-d9c5c5349294](https://github.com/truongnhat96/truongnhat96/assets/132559185/9bf58213-d13d-41f1-879b-436b0904ae8e)
  <h1 align="left"> Hi there 👋 </h1>
 
 - 🔭 I’m LUONG NHAT TRUONG
