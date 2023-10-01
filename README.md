@@ -9,7 +9,7 @@
 
 <h2 align="left">🌐️ Connect with me:</h2>
 <p align="left"> 
-<a href="https://linkedin.com/in/trường lương nhật" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trường lương nhật" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Trường Lương Nhật" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Trường Lương Nhật" height="30" width="40" /></a>
 <a href="https://fb.com/trường lương" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="trường lương" height="30" width="40" /></a>
 </p>
 
