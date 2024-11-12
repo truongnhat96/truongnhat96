@@ -3,11 +3,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Coding+Everyday;Training;Keep+Going;Try+Hard+💪;Always+learning+new+things;And...;YOU+CAN+DO+IT"></a>
 </p>
 
-
-<br>
-
-![df3kllr-32b45386-cb0b-4d18-8614-d9c5c5349294](https://github.com/truongnhat96/truongnhat96/assets/132559185/9bf58213-d13d-41f1-879b-436b0904ae8e)
-
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
